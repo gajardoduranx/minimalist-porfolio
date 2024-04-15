@@ -32,7 +32,15 @@ const linkedUrl = linkedInfo?.url;
                 <WorldMap />
                 {city}, {region}
             </span>
-            <footer>
+            <span>
+                <Mail />
+                {email}
+            </span>
+            <span>
+                <Phone />
+                {phone}
+            </span>
+            <!-- <footer>
                 {
                     email && (
                         <a
@@ -42,7 +50,8 @@ const linkedUrl = linkedInfo?.url;
                             rel="noopener noreferrer"
                         >
                             <Mail />
-                        </a>
+                            </a>
+                            <span>{email}</span>
                     )
                 }
                 {
@@ -54,10 +63,11 @@ const linkedUrl = linkedInfo?.url;
                             rel="noopener noreferrer"
                         >
                             <Phone />
-                        </a>
+                            </a>
+                        <span>{phone}</span>
                     )
-                }
-                {
+                } -->
+                <!-- {
                     profiles.map(({ network, url, username }) => {
                         const Icon = SOCIAL_ICONS[network];
 
@@ -72,12 +82,12 @@ const linkedUrl = linkedInfo?.url;
                             </a>
                         );
                     })
-                }
-            </footer>
+                } -->
+            <!-- </footer> -->
         </div>
-        <figure>
+        <!-- <figure>
             <img src={image} alt={name} />
-        </figure>
+        </figure> -->
     </div>
 </Section>
 
@@ -103,6 +113,7 @@ const linkedUrl = linkedInfo?.url;
         font-weight: 500;
         font-size: 1.1rem;
         text-wrap: balance;
+        padding-bottom: .5rem;
     }
     img {
         aspect-ratio: 1 / 1;
@@ -111,17 +122,19 @@ const linkedUrl = linkedInfo?.url;
         border-radius: 16px;
     }
     span {
-        color: #666;
+        color: #555;
         display: flex;
         align-items: center;
-        gap: 0.25rem;
-        font-size: 0.85rem;
+        gap: .5rem;
+        font-size: 1rem;
+        padding-top: .2rem;
         letter-spacing: -0.05rem;
     }
     footer {
         color: #555;
         font-size: 0.65rem;
         display: flex;
+        flex-direction: column;
         gap: 4px;
         margin-top: 8px;
     }

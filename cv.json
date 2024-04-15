@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Jorge L. Gajardo Durán",
-      "label": "Full Stack Developer con 3 años de experiencia & Asesor Financiero",
+      "label": "Programador & Estudiante de Ingeniería Comercial",
       "image": "/me.jpg",
-      "email": "jl.gajardoduran@gmail.com",
-      "phone": "+34 688888888",
+      "email": "gajardoduranjorge@gmail.com",
+      "phone": "+56 9 27358035",
       "url": "https://midu.dev",
-      "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+      "summary": "Mi objetivo es aportar con mis habilidades el máximo valor posible a la empresa, de forma eficiente y fomentando el trabajo en equipo. Al igual que seguir aprendiendo y creciendo profesionalmente.",
       "location": {
         "address": "",
         "postalCode": "1240000",
@@ -34,33 +34,33 @@
     },
     "work": [
       {
-        "name": "midudev",
-        "position": "Divulgador sobre Programación Web",
+        "name": "Mc Donald's",
+        "position": "Operario multifuncional",
         "url": "https://twitch.tv/midudev",
-        "startDate": "2021-01-01",
-        "endDate": null,
-        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+        "startDate": "2023-08",
+        "endDate": "2024-02",
+        "summary": "Operario multifuncional en Mc Donald's, realizando tareas tales como: preparación de alimentos, atención al cliente, limpieza, etc.",
         "highlights": [
           "Started the company"
         ]
       },
       {
-        "name": "Adevinta",
-        "position": "Lead Frontend Architect",
+        "name": "Nike",
+        "position": "Encargado de seguridad",
         "url": "https://twitch.tv/midudev",
-        "startDate": "2016-06-01",
-        "endDate": "2022-09-01",
-        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+        "startDate": "2021-08",
+        "endDate": "2022-06",
+        "summary": "Encargado de mantener la seguridad en la tienda comercial, realizando tareas tales como: abrir y cerrar local, control de entrada/salida de objetos y personas, etc",
         "highlights": [
           "Started the company"
         ]
       },
       {
-        "name": "Hubii",
-        "position": "Senior FrontEnd Developer",
-        "startDate": "2011-03-01",
-        "endDate": "2016-05-01",
-        "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+        "name": "Cannon",
+        "position": "Promotor de Ventas",
+        "startDate": "2020-11",
+        "endDate": "2021-02",
+        "summary": "Promotor en ventas de camaras fotograficas e impresoras en tienda Ripley. Reconocimiento por volumen de ventas",
         "highlights": [
           "Started the company"
         ]
@@ -78,12 +78,24 @@
       ]
     }],
     "education": [{
-      "institution": "Universitat Oberta de Catalunya",
+      "institution": "Universidad Santo Tomas",
       "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
+      "area": "Cursando Ingeniería Comercial",
       "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Coderhouse",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Desarrollo Web",
+      "studyType": "Bachelor",
+      "startDate": "2023-01-01",
+      "endDate": "2023",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -110,77 +122,28 @@
     }],
     "skills": [
       {
-        "name": "HTML",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
-      },
-      {
-        "name": "CSS",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "JavaScript",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-        ]
-      },
-      {
-        "name": "Tailwind",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "TypeScript",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-        ]
-      },
-      {
-        "name": "Node",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-        ]
-      },
-      {
-        "name": "MySQL",
-        "level": "Avanzado",
-        "keywords": [
-          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-        ]
-      },
-      {
-        "name": "Git",
+        "name": "- Conocimientos de herramientas de ofimática y TI",
         "level": "Avanzado",
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente"
         ]
       },
       {
-        "name": "GitHub",
+        "name": "- Capacidad de adaptación y apredizaje continuo",
         "level": "Avanzado",
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente", "Git"
         ]
       },
       {
-        "name": "Next.js",
+        "name": "- Experiencia en atención al cliente y trabajo en equipo",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
         ]
       },
       {
-        "name": "React",
+        "name": "- Conocimientos administrativos",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
